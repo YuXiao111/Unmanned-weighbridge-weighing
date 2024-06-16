@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unmanned weighbridge weighing", "Unmanned weighbridge weighing\Unmanned weighbridge weighing.csproj", "{7D1CBA89-8911-416F-941C-67C60A321444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.Core", "Company.Core\Company.Core.csproj", "{5B61D79B-6C02-4BFC-B899-E9C23E1D0180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.Hardware", "Company.Hardware\Company.Hardware.csproj", "{656A0698-A7C4-42F6-BF0E-ECB38210A1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.Sqlite", "Company.Sqlite\Company.Sqlite.csproj", "{4CAD6257-913F-4C26-87F8-1981A17605A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1CBA89-8911-416F-941C-67C60A321444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1CBA89-8911-416F-941C-67C60A321444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1CBA89-8911-416F-941C-67C60A321444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1CBA89-8911-416F-941C-67C60A321444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B61D79B-6C02-4BFC-B899-E9C23E1D0180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B61D79B-6C02-4BFC-B899-E9C23E1D0180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B61D79B-6C02-4BFC-B899-E9C23E1D0180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B61D79B-6C02-4BFC-B899-E9C23E1D0180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656A0698-A7C4-42F6-BF0E-ECB38210A1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A0698-A7C4-42F6-BF0E-ECB38210A1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656A0698-A7C4-42F6-BF0E-ECB38210A1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A0698-A7C4-42F6-BF0E-ECB38210A1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAD6257-913F-4C26-87F8-1981A17605A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAD6257-913F-4C26-87F8-1981A17605A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAD6257-913F-4C26-87F8-1981A17605A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAD6257-913F-4C26-87F8-1981A17605A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FD3942-2D76-4ABF-B61C-D6C338CD370E}
+	EndGlobalSection
+EndGlobal

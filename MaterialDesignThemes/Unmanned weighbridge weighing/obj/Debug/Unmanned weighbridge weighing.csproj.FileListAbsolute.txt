@@ -1,0 +1,55 @@
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Unmanned weighbridge weighing.exe.config
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Unmanned weighbridge weighing.exe
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Unmanned weighbridge weighing.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\CommunityToolkit.Mvvm.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\ControlzEx.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MahApps.Metro.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignColors.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Buffers.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.ComponentModel.Annotations.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Memory.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Numerics.Vectors.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\CommunityToolkit.Mvvm.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\CommunityToolkit.Mvvm.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\ControlzEx.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\ControlzEx.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MahApps.Metro.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MahApps.Metro.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignColors.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Buffers.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Memory.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Numerics.Vectors.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.csproj.AssemblyReference.cache
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\App.g.cs
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing_MarkupCompile.cache
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing_MarkupCompile.lref
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.g.resources
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned_weighbridge_weighing.Properties.Resources.resources
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.csproj.GenerateResource.cache
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.csproj.CoreCompileInputs.cache
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.csproj.CopyComplete
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.exe
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Unmanned weighbridge weighing.pdb
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\ShellView.g.cs
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\ShellView.baml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\App.baml
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\LoginView.g.cs
+F:\WPF\Software\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\LoginView.baml

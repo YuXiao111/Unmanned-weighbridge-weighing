@@ -1,0 +1,24 @@
+﻿<mah:MetroWindow  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+                  x:Class="Unmanned_weighbridge_weighing.Views.ShellView"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                  xmlns:local="clr-namespace:Unmanned_weighbridge_weighing.Views"
+                  mc:Ignorable="d"                
+                  xmlns:vm="clr-namespace:Unmanned_weighbridge_weighing.ViewModels"
+                  xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+                  d:DataContext="{d:DesignInstance vm:ShellViewModel}"
+                  Background="{DynamicResource MaterialDesign.Brush.Background}"
+                  FontFamily="Microsft YaHei"
+                  TextElement.FontSize="16"
+                  TextElement.FontWeight="Regular"
+                  TextElement.Foreground="{DynamicResource MaterialDesignBody}"            
+                  Title="无人值守地磅称重系统"
+                  WindowStartupLocation="CenterScreen"
+                  Height="450"
+                  Width="800">
+    <materialDesign:DialogHost Identifier="RootDialog">
+        <ContentControl x:Name="container"></ContentControl>
+    </materialDesign:DialogHost>
+</mah:MetroWindow>
