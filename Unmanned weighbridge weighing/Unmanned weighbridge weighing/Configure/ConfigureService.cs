@@ -34,7 +34,8 @@ namespace Unmanned_weighbridge_weighing.Configure
             services.AddSingleton<ShellViewModel>();
             services.AddSingleton<LoginView>();
             services.AddSingleton<LoginViewModel>();
-
+            services.AddSingleton<MainView>();
+            services.AddSingleton<MainViewModel>();
 
 
 

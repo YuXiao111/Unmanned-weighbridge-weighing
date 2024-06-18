@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Unmanned_weighbridge_weighing.ViewModels
 {
-    internal class ShellViewModel: ObservableObject
+    internal class MainViewModel:ObservableObject
     {
     }
 }

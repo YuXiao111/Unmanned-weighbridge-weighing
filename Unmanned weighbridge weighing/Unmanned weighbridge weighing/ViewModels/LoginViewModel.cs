@@ -1,4 +1,5 @@
-﻿using CommunityToolkit.Mvvm.Input;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 using Company.Sqlite.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,7 @@ using Unmanned_weighbridge_weighing.Interfaces;
 
 namespace Unmanned_weighbridge_weighing.ViewModels
 {
-    internal class LoginViewModel
+    internal class LoginViewModel: ObservableObject
     {
         public ICommand LoginCommand { get; }
 
@@ -28,7 +29,7 @@ namespace Unmanned_weighbridge_weighing.ViewModels
         }
         private void Login()
         {
-            Session.CurrentUser.PassWord = "123456";
+            Session.CurrentUser.PassWord = "12345678";
             if (string.IsNullOrEmpty(Session.CurrentUser.UserName) || string.IsNullOrEmpty(Session.CurrentUser.PassWord))
             {
                 MessageBox.Show("用户名或密码为空");
