@@ -11,6 +11,7 @@ namespace Company.Sqlite.Repositories
     /// </summary>
     public abstract class RepositoryBase
     {
+        //Lazy
         protected static SqliteDbContext db {  get; set; }=new Lazy<SqliteDbContext>().Value;
     }
 }

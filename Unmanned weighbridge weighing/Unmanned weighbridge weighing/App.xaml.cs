@@ -16,7 +16,8 @@ namespace Unmanned_weighbridge_weighing
     /// </summary>
     public partial class App : Application
     {
-        public new static App Current=>(App)Application.Current;
+        public new static App Current => (App)Application.Current;
+        //注册页面
         public IServiceProvider Services { get; private set; }
 
         protected override void OnStartup(StartupEventArgs e)
@@ -25,7 +26,7 @@ namespace Unmanned_weighbridge_weighing
             Services.GetService<ShellView>().Show();
 
         }
-
+        //ctor+回车
         public App()
         {
             Services = ConfigureService.Load();

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Company.Sqlite.Interfaces
 {
+    //泛型接口
     public interface IRepository<T>where T : class
     {
         T Get(int id);

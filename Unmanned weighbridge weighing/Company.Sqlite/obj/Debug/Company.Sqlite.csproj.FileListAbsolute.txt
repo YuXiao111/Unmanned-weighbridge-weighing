@@ -55,3 +55,5 @@ E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Compan
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Company.Sqlite\obj\Debug\Company.Sqlite.csproj.CopyComplete
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Company.Sqlite\obj\Debug\Company.Sqlite.dll
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Company.Sqlite\obj\Debug\Company.Sqlite.pdb
+E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Company.Sqlite\bin\Debug\Newtonsoft.Json.dll
+E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Company.Sqlite\bin\Debug\Newtonsoft.Json.xml

@@ -1,4 +1,5 @@
-﻿using Company.Sqlite.Interfaces;
+﻿using Company.Core.Config;
+using Company.Sqlite.Interfaces;
 using Company.Sqlite.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -26,14 +27,16 @@ namespace Unmanned_weighbridge_weighing.Configure
 
             //注册业务层
             services.AddSingleton<ISession,Session>();
-
+            services.AddSingleton<IConfigManager,ConfigManager>();
 
 
             //注册UI层
             services.AddSingleton<ShellView>();
             services.AddSingleton<ShellViewModel>();
+
             services.AddSingleton<LoginView>();
             services.AddSingleton<LoginViewModel>();
+
             services.AddSingleton<MainView>();
             services.AddSingleton<MainViewModel>();
 

@@ -128,3 +128,5 @@ E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmann
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Company.Sqlite.dll.config
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\MainView.g.cs
 E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\obj\Debug\Views\MainView.baml
+E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Newtonsoft.Json.dll
+E:\.Net\Soft\无人值守地磅称重系统\Unmanned weighbridge weighing\Unmanned weighbridge weighing\bin\Debug\Newtonsoft.Json.xml
